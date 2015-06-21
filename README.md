@@ -18,6 +18,10 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 For details on the dataset, consult the README file.
 
-##
+## How to use the script
+
+All data files should be kept on their original location. The R script run_analysis.R
+should be in the same directory.
+
 
 
